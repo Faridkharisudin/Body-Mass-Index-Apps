@@ -1,0 +1,9 @@
+const String tSplassText = "Get your Body Mass Index \nusing this app!";
+const String tNameApp =  "BMI Calculator";
+const String tPrimaryResultText = "Your Result";
+const String tBtnResultText = "Back to home!";
+const String tBtnSplassText = "Got It!";
+const String tBtnHomeCalculateText = "Calculate!";
+const String tNoteResultNormal = "You have a normal body weight.\nGood job!";
+const String tNoteResultOver = "You have a over body weight.";
+const String tNoteResultLow = "You have a low body weight.";
